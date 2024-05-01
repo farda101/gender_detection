@@ -1,0 +1,9 @@
+path: ../datasets/roboflow
+
+train: D:\PSC2\deteksi-gender\train\images
+val: D:\PSC2\deteksi-gender\valid\images
+test: D:\PSC2\deteksi-gender\test\images
+
+names: 
+  0: men
+  1: women
